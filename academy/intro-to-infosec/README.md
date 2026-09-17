@@ -11,3 +11,31 @@
 1. **Confidentiality**
 2. **Integrity**
 3. **Availability**
+
+## Domains
+
+### Network Security
+
+- Firewall
+- IDS/IPS
+- VPN
+- Access control
+- Encryption
+
+### Application Security
+
+#### Security by Design
+
+- Threat modeling (thinking as an attacker during development)
+- Secure code reviews
+- Database and server
+- Authentication + authorization
+
+#### Responsibility
+
+- Development
+- Penetration testing
+
+### Operational Security
+
+Todo
