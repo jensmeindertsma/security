@@ -2,8 +2,8 @@
 
 | Concept       | Description                                                                          |
 | ------------- | ------------------------------------------------------------------------------------ |
-| Threat        | Hostile entity or natural event that could cause damage                              |
-| Vulnerability | Weakness in a system that could be exploited by a threat to cause damage             |
+| Threat        | Hostile entity or harmful natural event                                              |
+| Vulnerability | Exploitable weakness in a system                                                     |
 | Risk          | Potential for damage by a malicious event due to a threat exploiting a vulnerability |
 
 ## Principles
